@@ -1,14 +1,15 @@
-# Autograding Example: C
-This example project is written in C, and tested with make and bash scripts.
+# Sesi 3 – Git Started: Version Control For New Coders
 
-### The assignment
-The tests are currently failing because we're printing the wrong string. Correcting the `printf` will fix the tests.
+## Tugas: Simulating Assignment Submission (Git + GitHub Classroom)
 
-### Setup command
-N/A
+**Tujuan:** Buat program sederhana yang **mencetak nama dan bahasa pemrograman favoritmu** ke layar/terminal, lalu **simpan di Git**, **push ke GitHub**, dan **kumpulkan tautan repo** (atau terima tugas GitHub Classroom bila digunakan).
 
-### Run command
-`make test`
+---
 
-### Notes
-- `gcc` can be used to compile and link C applications for use with existing test harnesses or C testing frameworks.
+## Spesifikasi Program
+- Program boleh ditulis dalam **Python / JavaScript / Java / C** (atau satu bahasa yang ditentukan dosen).
+- **Format output WAJIB** dua baris seperti di bawah (huruf besar–kecil diabaikan pada penilaian, tapi ikuti contoh):
+Nama: Ali Rahman
+Bahasa favorit: Python
+
+> Pastikan tidak ada placeholder seperti `<isi>` yang tersisa.
