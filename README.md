@@ -9,7 +9,9 @@
 ## Spesifikasi Program
 - Program boleh ditulis dalam **Python / JavaScript / Java / C** (atau satu bahasa yang ditentukan dosen).
 - **Format output WAJIB** dua baris seperti di bawah (huruf besar–kecil diabaikan pada penilaian, tapi ikuti contoh):
+
 Nama: Ali Rahman
+
 Bahasa favorit: Python
 
 > Pastikan tidak ada placeholder seperti `<isi>` yang tersisa.
